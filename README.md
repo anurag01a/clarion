@@ -1,6 +1,7 @@
 # Project C.L.A.R.I.O.N.
 
 **Climate Adaptation and Response Intelligence Operations Network**
+[Demo Video](https://youtu.be/BIxeWSOe6A4)
 
 ## Project Vision
 
